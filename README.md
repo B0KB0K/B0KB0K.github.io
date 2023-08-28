@@ -1,8 +1,6 @@
 <p align="center">
 
-<picture>
-![My recent photo](/f1.png)
-</picture>
+![My recent photo](/f1.png =400x400)
 
 # Bok Seng Yeow (0000-0003-1044-760X)
 ## PhD Canditate
