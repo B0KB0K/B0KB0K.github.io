@@ -1,7 +1,8 @@
 <p align="center">
-  
-![My recent photo](/f1.png)
 
+<picture>  
+![My recent photo](/f1.png | width=100)
+</picture>
 # Bok Seng Yeow (0000-0003-1044-760X)
 ## PhD Canditate
 ## National University of Singapore
