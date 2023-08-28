@@ -1,7 +1,7 @@
 <p align="center">
 
 
-![My recent photo](/f1.png | width=100)
+![My recent photo](/f1.png)
 
 # Bok Seng Yeow (0000-0003-1044-760X)
 ## PhD Canditate
