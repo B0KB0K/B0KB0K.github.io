@@ -1,6 +1,6 @@
-title: XXX
+# title: XXX
 # logo:/XXX.png
 # description of logo
-show_downloads: true
+show_downloads: false
 #remote_theme: pages-themes/slate@v0.2.0
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
